@@ -1,0 +1,20 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    abcabcabc:
+      email: abc@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: A
+      password: $2b$12$RShlq0jzxtxMgdswQiBUje32JLrBwHWlwyyS0evlA0vp7RPr2ta2K
+    andrenk:
+      email: test123@gmail.com
+      logged_in: false
+      name: Test
+      password: $2b$12$FTzb9vKO1El7PLQtA4VhAe/H7s1zXKnjx4o63Rzi3aAFtvsdX0FI2
+preauthorized:
+  emails:
+  - andreasnotokusumo23@gmail.com
